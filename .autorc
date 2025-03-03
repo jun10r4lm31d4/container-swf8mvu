@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "jun10r4lm31d4",
+  "repo": "container-swf8mvu",
+  "name": "jun10r4lm31d4",
+  "email": "42343358+jun10r4lm31d4@users.noreply.github.com",
+}
